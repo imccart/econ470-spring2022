@@ -20,7 +20,7 @@ drive_download("Bibliography/BibTeX_Library.bib", overwrite=TRUE, path='../../st
 
 `r blogdown::shortcode("courseinfo")`
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/syllabus-spring2021/syllabus.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of Syllabus</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/syllabus-spring2022/syllabus.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of Syllabus</a></p>
 
 ## Course description
 

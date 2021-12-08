@@ -32,7 +32,7 @@ Links to papers are listed alongside the full reference. PDFs of each paper are 
     - [@courtemanche2017]
     - [@obama2016]    
 - <i class="fa fa-database"></i> Data for this module:
-    - [Insurance Access and Medicaid Expansion]https://github.com/imccart/Insurance-Access) repository
+    - [Insurance Access and Medicaid Expansion](https://github.com/imccart/Insurance-Access) repository
 
 
 ## Slides
