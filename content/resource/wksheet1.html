@@ -1,0 +1,40 @@
+---
+title: "Worksheet 1: Expected Value"
+linktitle: "Expected value"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  resource:
+    parent: Worksheets
+    weight: 1
+type: docs
+---
+
+
+
+<p>An individual starts with a wealth of <span>$</span>100,000. With probability 0.3, they will get sick and incur a cost of <span>$</span>40,000.</p>
+<div id="question-1" class="section level3">
+<h3>Question 1:</h3>
+<p><strong>What is this person’s expected cost of illness?</strong></p>
+<p>The expected cost is the probability of being ill (0.3) times the cost of being ill (40,000),<br><br>
+<span class="math inline">\(E[cost]=0.3 \times 40,000 =\)</span> 12,000.</p>
+</div>
+<div id="question-2" class="section level3">
+<h3>Question 2:</h3>
+<p><strong>Assume this individual has a utility function of the form, <span class="math inline">\(u(w) = w^{0.20}\)</span>. What is this person’s expected utility?</strong></p>
+<p>Expected utility works the same as any expectation…the “tricky” part is that we’re using the utility <em>function</em> to the find the values over which we form the expectation. In this case, we have two possible outcomes: a) healthy, which gives us a wealth of <span>$</span>100,000; or b) sick, in which case we incur the cost of illness and end up with <span>$</span>60,000. So to find the expected utility, we need to find the utility associated with each possible wealth value, and then we need to take the expectation over those utility values:</p>
+<p><b>Step 1: Find utility values</b><br></p>
+<ul>
+<li><p>If healthy: <span class="math inline">\(u(w)|_{w=100,000} = 100,000^{0.2}=\)</span> 10</p></li>
+<li><p>If sick: <span class="math inline">\(u(w)|_{w=60,000} = 60,000^{0.2}=\)</span> 9.0288</p></li>
+</ul>
+<p><br>
+<b>Step 2: Take the expectation</b><br>
+Taking the expectation over these utility values yields: <span class="math inline">\(E[u]=0.7 \times\)</span> 10 <span class="math inline">\(+0.3 \times\)</span> 9.0288 <span class="math inline">\(=\)</span> 9.7086.</p>
+</div>
+<div id="question-3" class="section level3">
+<h3>Question 3:</h3>
+<p><strong>Calculate this person’s utility if they were to incur the expected cost of illness with certainty. Is this utility higher or lower than what you found in part (2)?</strong></p>
+<p>If they are definitely going to be sick (i.e., with probability, <span class="math inline">\(p=1\)</span>), then we just need to plug in the wealth value in the sick state (60,000) into the utility function, <span class="math inline">\(u=(60,000)^{0.2}=\)</span> 9.0288. As should be the case, this is lower than our expected utility from part (2).</p>
+</div>

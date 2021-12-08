@@ -1,0 +1,57 @@
+---
+title: "Medicare Advantage Quality and Regression Discontinuity"
+linktitle: "M3: MA and RD"
+menu:
+  content:
+    parent: Module Content
+    weight: 2
+type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+The goal of this module is to understand regression discontinuity as a causal identification strategy. We'll do this in the context of Medicare Advantage quality ratings, where we'll estimate the effect of higher quality ratings on enrollments. Similar to the prior module, we'll use RD as a way to avoid problems of endogeneity of ratings.
+
+
+## Readings and other links
+
+Links to papers are listed alongside the full reference. PDFs of each paper are also available on **Canvas**.
+
+- <i class="fas fa-book"></i> Required readings for this module:
+    - Chapter 6 of [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+    - Chapter 20 of [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/)
+- <i class="fas fa-external-link-square-alt"></i> Supplemental information and readings:
+    - Chapter 6 of [@angrist2009]
+    - [@darden2015]
+    - [@gruber2017]    
+- <i class="fa fa-database"></i> Data for this module:
+    - [Medicare Advantage](https://github.com/imccart/Medicare-Advantage) repository
+
+
+## Slides
+
+Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
+
+:::fyi
+**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
+:::
+
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ470-content/03-ma-quality.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ470-content/03-ma-quality.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ470-content/03-ma-quality.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+

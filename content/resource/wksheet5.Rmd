@@ -1,0 +1,45 @@
+---
+title: "Worksheet 5: Physician agency and fixed prices"
+linktitle: "Agency with fixed prices"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  resource:
+    parent: Worksheets
+    weight: 5
+type: docs
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, ggplot2, dplyr, lubridate, readr, readxl, hrbrthemes,
+               scales, gganimate, gapminder, gifski, png, tufte, plotly, OECD,
+               ggrepel)
+
+```
+
+
+Assume $B(x)=4x^{1/2}$, $NB^{0}=0$, anc $c=1$. Further assume that prices are fixed administratively at, $\bar{p}=2$. Note that, in this case, we work only off of the patient's net benefit constraint.
+
+### Question 1:
+**What is the physician's and patient's optimal amount of care provided?**
+
+
+The physician maximizes profit, $\pi = px - cx$, subject to the constraint, $4x^{1/2} = px$. Since $p$ is fixed, the physician simply sets $x$ as high as possible, which means they set $x$ to the point where the constraint binds. With $p=2$, this means $4x^{1/2} = 2x$, and solving for $x$ means $16x = 4x^{2} \longrightarrow 16=4x \longrightarrow x=4$. 
+
+The patient cares about maximizing net benefit, $4x^{1/2} - 2x$. This is maximized at $x$ such that $2x^{-1/2}-2=0 \longrightarrow x=1$. 
+
+### Question 2:
+**The government is considering increasing the price to $\bar{p}=3$. What are the new optimal levels of care for physicians and patients at this new price?**
+
+
+At this new price, the physician would choose $x$ such that $4x^{1/2} = 3x \longrightarrow 16x = 9x^{2} \longrightarrow 16=9x \longrightarrow x=\frac{16}{9}$. The patient would choose $x$ such that $2x^{-1/2}-3=0 \longrightarrow x=4/9$. 
+
+### Question 3:
+**How would the price change affect the difference between the patient and physician's optimal amounts?**
+
+
+First, note that the amount of care decreases as the administrative price increases (opposite of the standard supply curve). Similarly, the deviation between the patient and physician optimal amounts decreases.
+

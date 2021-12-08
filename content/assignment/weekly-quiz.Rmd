@@ -1,0 +1,16 @@
+---
+title: "In-class Quiz"
+linktitle: "In-class quiz"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  assignment:
+    parent: Participation
+    weight: 1
+type: docs
+---
+
+There will be one "quiz" per week, sometimes on Tuesday and sometimes on Thursday. The quizzes will be very short and very easy. The goal of the quiz is really just to see who is attending and who is engaged. 
+
+Completing the quiz is worth **1 point** toward your participation grade for that week. The quizzes will take place in class as a Zoom poll.

@@ -1,0 +1,71 @@
+---
+title: "Worksheet 3: Adverse Selection"
+linktitle: "Adverse selection"
+output:
+  blogdown::html_page:
+    toc: false
+menu:
+  resource:
+    parent: Worksheets
+    weight: 3
+type: docs
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, ggplot2, dplyr, lubridate, readr, readxl, hrbrthemes,
+               scales, gganimate, gapminder, gifski, png, tufte, plotly, OECD,
+               ggrepel)
+
+```
+
+
+Assume that the insurer's cost function is given by $C=100q - 2q^{2}$, where $q$ denotes the number of people enrolled in the plan. Further assume that the inverse demand function takes the form, $D=110 - 3q$, and that there are 20 individuals total in this market.
+
+
+```{r, include=FALSE}
+demand <- function(q){
+  110 - 3*q
+}
+cost <- function(q){
+  100*q - 2*q^{2}
+}
+mc <- function(q){
+  100 - 4*q
+}
+ac <- function(q){
+  cost(q)/q
+}
+q.demand <- function(p){
+  (110-p)/3
+}
+```
+
+### Question 1:
+**If the insurer enters the market at a price of <span>&#36;</span>65, what is the insurer's profit (or loss)?**
+
+
+we need to first calculate the marginal cost curve, $mc=100-4q$, and the average cost curve, $ac=100-2q$. At a price of $p=65$, we know that quantity demanded will be $q=$ `r q.demand(65)`. We can then calculate profit as just total revenue less total cost, $\pi = TR - TC =$ `r 65*q.demand(65)` - `r ac(q.demand(65))*q.demand(65)` = `r 65*q.demand(65) - ac(q.demand(65))*q.demand(65)`.
+
+### Question 2:
+**What price does the insurer set next year if they set price equal to average cost in the prior year?**
+
+
+Average cost at $p=65$ is `r ac(q.demand(65))`. So this is next period's price.
+
+### Question 3:
+**What is the equilibrium price in this market?**
+
+
+The equlibrium price is such that insurers earn zero profits (under our assumptions). We can find that price by finding the quantity such that $AC=p$. This occurs at $110 - 3q = 100 - 2q$, or $q=10$. The price at this quantity is `r demand(10)`. Note that the zero profit condition isn't necessary to find an equilibrium in this way. We could easily incorporate some minimum "profit" per person by increasing the per unit costs in the cost function.
+
+
+### Question 4:
+**What if there is a <span>&#36;</span>10 penalty imposed for those that do not purchase health insurance?**
+
+
+The penalty will effectively shift the demand curve out, as each individual is now willing to spend <span>&#36;</span>10 more on health insurance. The new demand curve is then $120 - 3q$. Setting this equal to the average cost curve yields $q=20$. So a <span>&#36;</span>10 penalty facilitates full insurance in this market.
+
+
+

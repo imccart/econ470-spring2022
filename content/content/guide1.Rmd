@@ -1,0 +1,27 @@
+---
+title: "Weekly Guide 1"
+linktitle: "Week 1"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 1
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+Welcome to Research in Health Economics! We're going to have a great time this semester and learn a ton about causal inference and health policy.
+
+### Objectives
+
+TBD
+
+### Activities 
+
+TBD
+
