@@ -47,7 +47,7 @@ Use the buttons below to open the slides either as an interactive website or as 
 <center>
 
 ```{r}
-knitr::include_url("https://imccart.github.io/Econ470-content/04-medicaid-uninsurance.html")
+knitr::include_url("https://imccart.github.io/econ470-content/04-medicaid-uninsurance.html")
 ```
 
 
