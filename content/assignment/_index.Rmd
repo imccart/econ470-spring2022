@@ -1,6 +1,6 @@
 ---
 title: General information
-date: "2021-12-06"
+date: "2022-1-03"
 menu:
   assignment:
     parent: Assignments
