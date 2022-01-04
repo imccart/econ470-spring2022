@@ -87,7 +87,7 @@ edit_page = ""
 
 author = "Ian McCarthy"
 instructor = {name = "Prof. Ian McCarthy", email = "ian.mccarthy@emory.edu", url = "https://www.ianmccarthyecon.com", twitter = "ianhealthecon", office = "PAIS 573", github = "imccart", appointment_url = "https://mccarthy-meetings.youcanbook.me/"}
-course = {number = "Econ/HLTH 470", semester = "Spring 2022", dates = "1/11/2022 - 5/2/2022", days = "Monday & Wednesday", time = "1:00pm - 2:15pm", github = "github.com/imccart/econ470-spring2022", copyrightYear = "2022", location="Rich 211"}
+course = {number = "Econ/HLTH 470", semester = "Spring 2022", dates = "1/11/2022 - 5/2/2022", days = "Monday & Wednesday", time = "1:00pm - 2:15pm", github = "imccart/econ470-spring2022", copyrightYear = "2022", location="Rich 211"}
 university = {name = "Emory University", url = "https://www.emory.edu/home/index.html"}
 school = {name = "Department of Economics", url = "http://economics.emory.edu/home/index.html"}
 
