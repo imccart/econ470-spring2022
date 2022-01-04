@@ -53,6 +53,6 @@ knitr::include_url("https://imccart.github.io/econ470-content/01-hospital-pricin
 ```
 
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ470-content/01-hospital-pricing.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ470-content/01-hospital-pricing.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/01-hospital-pricing.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/01-hospital-pricing.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
 
 </center>
