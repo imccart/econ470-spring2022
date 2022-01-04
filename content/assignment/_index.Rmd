@@ -1,6 +1,6 @@
 ---
 title: General information
-date: "2022-1-03"
+date: "2022-01-03"
 menu:
   assignment:
     parent: Assignments
@@ -15,7 +15,7 @@ output:
 Below are basic descriptions of each category of assignments for this semester. More details are available on the individual pages for each assignment. Please be sure to check the due dates on each assignment. Late assignments will receive an automatic 2% reduction in the grade for each day the assignment is turned in after the due date.
 
 ## Homework
-Please submit all of your homework answers as a PDF through **Canvas**. You can use Word and "print" to PDF, but I also encourage you to use RMarkdown or [Overleaf](https://www.overleaf.com/), either of which will help you to easily create PDFs and is much better for writing math-oriented documents. Overleaf is also fully cloud-based, and as an Emory student, you have full access to Overleaf Professional. RMarkdown via our AWS access is also cloud-based.
+Please submit all of your homework answers as a PDF through **Canvas**. You can use Word and "print" to PDF, but I strongly encourage you to use `RMarkdown`, which will help you to easily create PDFs and is much better for writing data-oriented documents. `RMarkdown` via our AWS access is also cloud-based.
 
 Each homework assignment is worth 30 points toward your final grade (11% each) and consists of 10 individual questions. Each question is worth 3 points, graded as follows:
 
@@ -24,7 +24,7 @@ Each homework assignment is worth 30 points toward your final grade (11% each) a
 - **1 point:** Incomplete work but an attempt nonetheless
 - **0 points:** No work toward the answer (e.g., completely blank or no clear attempt to solve)
 
-The homework assignments are almost entirely empirical, with each assignment focusing on a specific identification strategy, research question, and health-related dataset. I will provide all answers in **R**; however, you are free to use any software you'd like. Just keep in mind that I will be best able to answer your questions if you also use **R**. I can also answer most any question if you choose to use **Stata**. I can point you in the right direction with **Python**, but I likely can't provide you with any sample code or specific syntax advice.
+The homework assignments are almost entirely empirical, with each assignment focusing on a specific identification strategy, research question, and health-related dataset. I will provide all answers in `R`; however, you are free to use any software you'd like. Just keep in mind that I will be best able to answer your questions if you also use `R`. I can also answer most any question if you choose to use `Stata`. I can point you in the right direction with `Python`, but I likely can't provide you with any sample code or specific syntax advice.
 
 
 ## Project
