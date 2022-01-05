@@ -10,6 +10,6 @@ Here's your roadmap for the semester!
 - [**Assignment**](/assignment/) (<i class="fas fa-pencil-ruler"></i>): Detailed information, instructions, and grading criteria for each assignment. **Assignments are due by 11:59 PM on the day they're listed.**
 
 
-**UPDATE: As per the recent Emory announcement, we'll be meeting virtually for the first few classes (through January 31). All of the details for our online class meetings and office hours can be found on Canvas.**
+**UPDATE: As per the recent Emory announcement, we'll be meeting virtually for the first few classes (through January 30). All of the details for our online class meetings and office hours can be found on Canvas.**
 
 `r blogdown::shortcode("schedule")`
