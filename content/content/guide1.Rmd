@@ -19,9 +19,13 @@ Welcome to Research in Health Economics! We're going to have a great time this s
 
 ### Objectives
 
-TBD
+- Introduce the class, goals, structure, etc.
+- Review data manipulation in `R` using the `tidyverse`
+- Demonstrate `RStudio` in AWS and clone repo
 
 ### Activities 
 
-TBD
+- Set up `R`, `RStudio`, and `Git` on your own machines
+- or, get comfortable with AWS access
+- Clone first repository
 
