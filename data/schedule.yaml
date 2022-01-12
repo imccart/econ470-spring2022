@@ -22,11 +22,6 @@ lessons:
     date: "Jan 21"
     assignment: "weekly-check-in"
     bg: 2
-    
-  - title: '<i class="fas fa-star"></i> Homework 1'
-    date: "Jan 21"
-    assignment: "homework1"
-    bg: 3
     bottomborder: True
 
 
@@ -44,6 +39,11 @@ lessons:
     date: "Jan 28"
     assignment: "weekly-check-in"
     bg: 2
+
+- title: '<i class="fas fa-star"></i> Homework 1'
+    date: "Jan 28"
+    assignment: "homework1"
+    bg: 3
     bottomborder: True
 
 
