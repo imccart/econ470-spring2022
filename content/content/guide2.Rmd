@@ -28,6 +28,7 @@ Welcome to Research in Health Economics! We're going to have a great time this s
 - First [weekly check-in](/assignment/weekly-check-in.html) due on Friday.
 - Clone [Medicare Advantage repository](https://github.com/imccart/Medicare-Advantage) and begin working with data 
 
-### Readings
+### Readings and Other Resources
 - Lesson 2 from [Data Science for Economists](https://github.com/uo-ec607/lectures). This is part of a course from [Grant McDermott](https://grantmcdermott.com/) with a ton of great online resources.
 - [R for Data Science](https://r4ds.had.co.nz/), to help with data manipulation in the `tidyverse`
+- Understand filepaths. Short [video](https://youtu.be/NG7Y0kkGR8g) from Nick Huntington-Klein.
