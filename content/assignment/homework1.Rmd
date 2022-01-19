@@ -30,18 +30,8 @@ If you're new to `R Markdown`, then there will be some growing pains. Please be 
 Note that, for your submission, I do **not** need to see all of your code. You can include snippets of code files to highlight the most important parts of your work, but please don't include all of your code or large printouts of data in the final PDF submission.
 
 
-# Using *Git* and *GitHub*
-The first part of the assignment is to confirm you're good with *Git* and *GitHub*. 
-
-1. Log in to [LinkedIn Learning](https://www.linkedin.com/learning/). It's free if you sign in through Emory, then you can link to your personal LinkedIn account. 
-
-2. Take the [Learning GitHub](https://www.linkedin.com/learning/learning-github?u=2149178) course. It takes a couple of hours to complete. Once it's completed, you'll get a certificate added to your LinkedIn profile. 
-
-3. Add your certificate to your final answers. Hint: to add an image in the document, you can do something like: `![](D:/pictures/screenshot.png)`
-
-
 # Building the data
-Now let's do some data work. The purpose of this part of the assignment is essentially to practice database management. Most of your professional lives will likely involve managing data. It can be tedious but also extremely rewarding when you finally get to find out what's going on in the analysis stage. Anyway, let's get to work! All of these questions require you to use the [Medicare Advantage GitHub Repo](https://github.com/imccart/Medicare-Advantage).
+The purpose of this part of the assignment is essentially to practice database management. Most of your professional lives will likely involve managing data. It can be tedious but also extremely rewarding when you finally get to find out what's going on in the analysis stage. Anyway, let's get to work! All of these questions require you to use the [Medicare Advantage GitHub Repo](https://github.com/imccart/Medicare-Advantage).
 
 
 ## Enrollment Data
