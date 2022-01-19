@@ -25,6 +25,7 @@ This introduction module is a time for us to: 1) discuss the course; 2) get set 
 - <i class="fas fa-book"></i> Materials we'll use throughout this module:
     - Lesson 2 from [Data Science for Economists](https://github.com/uo-ec607/lectures). This is part of a course from [Grant McDermott](https://grantmcdermott.com/) with a ton of great online resources.
     - [R for Data Science](https://r4ds.had.co.nz/)
+    - Understand filepaths. Short [video](https://youtu.be/NG7Y0kkGR8g) from Nick Huntington-Klein.
 - <i class="fa fa-database"></i> Data for this module:
     - Data from [Gapminder](https://www.gapminder.org/)
     - [Medicare Advantage](https://github.com/imccart/Medicare-Advantage) repository
