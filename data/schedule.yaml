@@ -39,13 +39,7 @@ lessons:
     date: "Jan 28"
     assignment: "weekly-check-in"
     bg: 2
-
-  - title: '<i class="fas fa-star"></i> Homework 1'
-    date: "Jan 28"
-    assignment: "homework1"
-    bg: 3
     bottomborder: True
-
 
   - title: '<span class="content-title">Introduction to Causal Inference</span>'
     session: "Class 5-6"
@@ -54,10 +48,15 @@ lessons:
     guide: "guide4"
     bg: 1
 
+  - title: '<i class="fas fa-star"></i> Homework 1'
+    date: "Feb 1"
+    assignment: "homework1"
+    bg: 2
+
   - title: 'Check-in 3'
     date: "Feb 4"
     assignment: "weekly-check-in"
-    bg: 2
+    bg: 3
     bottomborder: TRUE
 
   - title: '<span class="content-title">Selection on Observables</span>'
@@ -85,14 +84,7 @@ lessons:
     date: "Feb 18"
     assignment: "weekly-check-in"
     bg: 2
-
-
-  - title: '<i class="fas fa-star"></i> Homework 2'
-    date: "Feb 18"
-    assignment: "homework2"
-    bg: 3
     bottomborder: True
-
 
 
   - title: 'Module 2: Demand for Cigarettes and Instrumental Variables'
@@ -106,10 +98,15 @@ lessons:
     guide: "guide7"
     bg: 1
 
+  - title: '<i class="fas fa-star"></i> Homework 2'
+    date: "Feb 22"
+    assignment: "homework2"
+    bg: 2
+
   - title: 'Check-in 6'
     date: "Feb 25"
     assignment: "weekly-check-in"
-    bg: 2
+    bg: 3
     bottomborder: True    
 
 
