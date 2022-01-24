@@ -6,6 +6,8 @@ menu:
     parent: Weekly Guides
     weight: 3
 type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
 output:
   blogdown::html_page:
     toc: false
@@ -31,4 +33,4 @@ But first things first! This week, we'll talk about the confusing mess that is h
 - [Homework 1](/assignment/homework1.html) due on Friday.
 
 ### Readings and Other Resources
-- For background on hospital prices, see [@cooper2019]. Link to paper [here](https://academic.oup.com/qje/article/134/1/51/5090426).
+- For background on hospital prices, see @cooper2019. Link to paper [here](https://academic.oup.com/qje/article/134/1/51/5090426).
