@@ -59,7 +59,7 @@ lessons:
     bg: 3
     bottomborder: TRUE
 
-  - title: '<span class="content-title">Selection on Observables</span>'
+  - title: '<span class="content-title">Matching or Weighting</span>'
     session: "Class 7-8"
     date: "Feb 7, 9"
     content: "01-content"
