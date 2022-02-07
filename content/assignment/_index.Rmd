@@ -38,3 +38,5 @@ We do not have a final exam in this class. Instead, we have a final project that
 - **0 points:** No submission of a check-in and no completion of the quiz
 
 Your final participation grade in the class is worth 15 points toward your final grade. We'll have well over 15 total "participation" points available, so you have some margin for error here.
+
+**UPDATE:** Due to potential COVID absences, quarantines, etc., the participation grade for this semester will be based on your weekly check-ins. Everyone will receive 5 points for the in-class "quiz" component, leaving 10 additional points to be earned via weekly check-ins. We still have more than 10 weeks in the semester, so there remains a margin for error in the participation grade.
