@@ -17,7 +17,7 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
-In this module, we'll introduce the idea of "selection on observables" and the different ways to exploit that idea to make casual statements. We'll do this in the context of hospital pricing, the research question being whether and to what extent for-profit hospitals charge higher prices compared to not-for-profit hospitals.
+In this module, we'll introduce the idea of "selection on observables" and the different ways to exploit that idea to make casual statements. We'll do this in the context of hospital pricing, the research question being whether and to what extent hospitals receiving a financial penalty also raise their prices.
 
 ## Readings and other links
 
