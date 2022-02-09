@@ -31,9 +31,9 @@ The following research topics, and associated *GitHub* repositories, are availab
 ## Hospital Pricing. 
 This topic uses the [HCRIS Repo](https://github.com/imccart/HCRIS).
 
-1. What is the effect of the Hospital Readmission Reduction Program on hospital prices? 
+1. What is the effect of hospital profit status on hospital prices? 
 
-Data on which hospitals were penalized under these programs is available within the HCRIS files.
+Data on hospital for-profit versus not-for-profit status is available from the Provider of Services files, which I will provide for anyone interested. The data are publicly available, but I have the data already clean so I'll spare you some extra work here!
  
 2. How did Medicaid expansion affect hospital "bad debt"?
 
