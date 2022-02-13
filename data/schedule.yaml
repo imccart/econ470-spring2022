@@ -98,14 +98,15 @@ lessons:
     guide: "guide7"
     bg: 1
 
-  - title: '<i class="fas fa-star"></i> Homework 2'
-    date: "Feb 22"
-    assignment: "homework2"
-    bg: 2
 
   - title: 'Check-in 6'
     date: "Feb 25"
     assignment: "weekly-check-in"
+    bg: 2
+    
+  - title: '<i class="fas fa-star"></i> Homework 2'
+    date: "Feb 25"
+    assignment: "homework2"
     bg: 3
     bottomborder: True    
 
