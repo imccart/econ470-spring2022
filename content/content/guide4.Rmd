@@ -28,7 +28,7 @@ This week, we'll lay the foundation for all of the methods in this class...the p
 
 ### Activities 
 
-- Continue working with the [Hospital Cost Report Information System (HCRIS)](https://github.com/imccart/HCRIS) repository. Note the revised repository link on Canvas that has the corrected filepaths for our AWS virtual computer.
+- Continue working with the [Hospital Cost Report Information System (HCRIS)](https://github.com/imccart-test/hcris) repository.
 - Third [weekly check-in](/assignment/weekly-check-in.html) due on Friday.
 - [Homework 1](/assignment/homework1.html) due on Tuesday, 2/1
 

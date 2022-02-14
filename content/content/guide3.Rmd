@@ -28,7 +28,7 @@ But first things first! This week, we'll talk about the confusing mess that is h
 
 ### Activities 
 
-- Clone [Hospital Cost Report Information System (HCRIS)](https://github.com/imccart/HCRIS) repository and begin working with data. See also a similar repository [here](https://github.com/asacarny/hospital-cost-reports) from [Adam Sacarny](http://sacarny.com/)
+- Clone [Hospital Cost Report Information System (HCRIS)](https://github.com/imccart-test/hcris) repository and begin working with data. See also a similar repository [here](https://github.com/asacarny/hospital-cost-reports) from [Adam Sacarny](http://sacarny.com/)
 - Second [weekly check-in](/assignment/weekly-check-in.html) due on Friday.
 - [Homework 1](/assignment/homework1.html) due ~~on Friday~~ next week.
 

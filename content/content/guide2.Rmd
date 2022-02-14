@@ -26,7 +26,7 @@ Welcome to Research in Health Economics! We're going to have a great time this s
 
 - Data manipulation with the `tidyverse`
 - First [weekly check-in](/assignment/weekly-check-in.html) due on Friday.
-- Clone [Medicare Advantage repository](https://github.com/imccart/Medicare-Advantage) and begin working with data 
+- Clone [Medicare Advantage repository](https://github.com/imccart-test/ma) and begin working with data 
 
 ### Readings and Other Resources
 - Lesson 2 from [Data Science for Economists](https://github.com/uo-ec607/lectures). This is part of a course from [Grant McDermott](https://grantmcdermott.com/) with a ton of great online resources.

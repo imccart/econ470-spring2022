@@ -26,7 +26,7 @@ This week, we start our first attempt to estimate a causal treatment effect. We'
 - Calculate an ATE or ATT using regression, matching, and weighting
 
 ### Activities 
-- Continue working with the [Hospital Cost Report Information System (HCRIS)](https://github.com/imccart/HCRIS) repository. Note the revised repository link on Canvas that has the corrected filepaths for our AWS virtual computer.
+- Continue working with the [Hospital Cost Report Information System (HCRIS)](https://github.com/imccart-test/hcris) repository.
 - [Weekly check-in](/assignment/weekly-check-in.html) due on Friday.
 - Estimate treatment effects with simulated data, using matching, regression, and re-weighting
 
