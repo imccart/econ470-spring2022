@@ -29,8 +29,8 @@ Links to papers are listed alongside the full reference. PDFs of each paper are 
     - Chapter 19 of [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/)
 - <i class="fas fa-external-link-square-alt"></i> Supplemental information and readings:
     - Chapter 4 of [@angrist2009]
-    - [@gruber2001]
-    - [@ross2003]    
+    - [@gruber2001]. Paper link [here](https://www.aeaweb.org/articles?id=10.1257/jep.15.2.193).
+    - [@ross2003]. Paper link [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.2071&rep=rep1&type=pdf)
 - <i class="fa fa-database"></i> Data for this module:
     - [CDC Tax Burden on Tobacco](https://github.com/imccart/CDC-Tobacco)
 

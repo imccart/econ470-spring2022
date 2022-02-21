@@ -1,0 +1,37 @@
+---
+title: "Weekly Guide 7"
+linktitle: "Week 7"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 7
+type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+This week, we'll go over the answer key for homework 1 and begin our discussion of demand estimation in the context of smoking.
+
+
+### Objectives
+- Understand how `R Markdown` creates a PDF file
+- Explain some of the history of smoking in the U.S.
+- Describe the empirical barriers to estimating demand curves
+
+### Activities 
+- Homework 1 review and discussion
+- [Weekly check-in](/assignment/weekly-check-in.html) due on Friday
+- [Homework 2](/assignment/homework2.html) due on Friday
+- Begin working with CDC Tax Burden data
+
+### Readings and Other Resources
+- [@gruber2001]. Paper link [here](https://www.aeaweb.org/articles?id=10.1257/jep.15.2.193).
+- [@ross2003]. Paper link [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.2071&rep=rep1&type=pdf)
+- [CDC Tax Burden on Tobacco](https://github.com/imccart/CDC-Tobacco)
