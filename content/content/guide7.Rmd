@@ -17,7 +17,7 @@ output:
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
-This week, we'll go over the answer key for homework 1 and begin our discussion of demand estimation in the context of smoking.
+This week, we'll go over the answer key for homework 1 and begin our discussion of demand estimation in the context of smoking. We'll also introduce the idea of instrumental variables as a way to estimate causal effects when confronted with selection on unobservables.
 
 
 ### Objectives
@@ -27,11 +27,17 @@ This week, we'll go over the answer key for homework 1 and begin our discussion 
 
 ### Activities 
 - Homework 1 review and discussion
+- Begin working with CDC Tax Burden data
+- Derive the instrumental variables estimate
+- Define and explain the instrumental variable estimate as a ratio of a "reduced-form" to a "first-stage" estimate
 - [Weekly check-in](/assignment/weekly-check-in.html) due on Friday
 - [Homework 2](/assignment/homework2.html) due on Friday
-- Begin working with CDC Tax Burden data
+
 
 ### Readings and Other Resources
 - [@gruber2001]. Paper link [here](https://www.aeaweb.org/articles?id=10.1257/jep.15.2.193).
 - [@ross2003]. Paper link [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.532.2071&rep=rep1&type=pdf)
 - [CDC Tax Burden on Tobacco](https://github.com/imccart/CDC-Tobacco)
+- Chapter 7 of [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+- Chapter 19 of [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/)
+- Chapter 4 of [@angrist2009]
