@@ -5,7 +5,7 @@ lessons:
   - title: '<span class="content-title">Introduction</span>'
     session: "Class 1"
     date: "Jan 12"
-    content: "00-content"
+    content: "00-content1"
     bg: 1
     bottomborder: True    
 
@@ -13,7 +13,7 @@ lessons:
   - title: '<span class="content-title">Data and Version Control</span>'
     session: "Class 2"
     date: "Jan 19"
-    content: "00-content"
+    content: "00-content2"
     bg: 1
     
   - title: 'Check-in 1'
@@ -29,7 +29,7 @@ lessons:
   - title: '<span class="content-title">Hospital Prices and HCRIS Data</span>'
     session: "Class 3-4"
     date: "Jan 24, 26"
-    content: "01-content"
+    content: "01-content1"
     bg: 1
 
   - title: 'Check-in 2'
@@ -41,7 +41,7 @@ lessons:
   - title: '<span class="content-title">Introduction to Causal Inference</span>'
     session: "Class 5-6"
     date: "Jan 31, Feb 2"
-    content: "01-content"
+    content: "01-content2"
     bg: 1
 
   - title: '<i class="fas fa-star"></i> Homework 1'
@@ -58,7 +58,7 @@ lessons:
   - title: '<span class="content-title">Matching or Weighting</span>'
     session: "Class 7-8"
     date: "Feb 7, 9"
-    content: "01-content"
+    content: "01-content3"
     bg: 1
 
   - title: 'Check-in 4'
@@ -71,7 +71,7 @@ lessons:
   - title: '<span class="content-title">Application to Hospital Pricing</span>'
     session: "Class 9-10"
     date: "Feb 14, 16"
-    content: "01-content"
+    content: "01-content4"
     bg: 1
 
   - title: 'Check-in 5'
@@ -88,7 +88,7 @@ lessons:
   - title: '<span class="content-title">Smoking and CDC Data</span>'
     session: "Class 11-12"
     date: "Feb 21, 23"
-    content: "02-content"
+    content: "02-content1"
     bg: 1
 
 
@@ -107,7 +107,7 @@ lessons:
   - title: '<span class="content-title">Instrumental Variables</span>'
     session: "Class 13-14"
     date: "Feb 28, Mar 2"
-    content: "02-content"
+    content: "02-content2"
     bg: 1
 
   - title: 'Check-in 7'
@@ -120,7 +120,7 @@ lessons:
   - title: '<span class="content-title">Estimating Demand for Cigarettes</span>'
     session: "Class 15-16"
     date: "Mar 14, 16"
-    content: "02-content"
+    content: "02-content3"
     bg: 1
 
   - title: 'Check-in 8'
@@ -141,7 +141,7 @@ lessons:
   - title: '<span class="content-title">Medicare Advantage (MA) and MA Data</span>'
     session: "Class 17-18"
     date: "Mar 21, 23"
-    content: "03-content"
+    content: "03-content1"
     bg: 1
 
   - title: 'Check-in 9'
@@ -154,7 +154,7 @@ lessons:
   - title: '<span class="content-title">Regression Discontinuity</span>'
     session: "Class 19-20"
     date: "Mar 28, 30"
-    content: "03-content"
+    content: "03-content2"
     bg: 1
 
   - title: 'Check-in 10'
@@ -167,7 +167,7 @@ lessons:
   - title: '<span class="content-title">Quality ratings and insurance choice</span>'
     session: "Class 21-22"
     date: "Apr 4, 6"
-    content: "03-content"
+    content: "03-content3"
     bg: 1
 
   - title: 'Check-in 11'
@@ -187,7 +187,7 @@ lessons:
   - title: '<span class="content-title">The ACA and Medicaid Expansion</span>'
     session: "Class 23-24"
     date: "Apr 11, 13"
-    content: "04-content"
+    content: "04-content1"
     bg: 1
 
   - title: 'Check-in 12'
@@ -200,7 +200,7 @@ lessons:
   - title: '<span class="content-title">Difference-in-Differences</span>'
     session: "Class 25-26"
     date: "Apr 18, 20"
-    content: "04-content"
+    content: "04-content2"
     bg: 1
 
   - title: 'Check-in 13'
@@ -213,7 +213,7 @@ lessons:
   - title: '<span class="content-title">Medicaid Expansion and Uninsurance</span>'
     session: "Class 27"
     date: "Apr 25"
-    content: "04-content"
+    content: "04-content3"
     bg: 1
 
   - title: '<i class="fas fa-star"></i> Homework 5'
