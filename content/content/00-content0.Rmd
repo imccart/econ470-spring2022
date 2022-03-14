@@ -1,9 +1,9 @@
 ---
-title: "Introduction"
-linktitle: "M0: Getting started"
+title: "Module 0: Introduction"
+linktitle: "M0: Overview"
 menu:
   content:
-    parent: Module Content
+    parent: Module 0
     weight: 1
 type: docs
 bibliography: "../../static/bib/BibTeX_Library.bib"
@@ -29,24 +29,4 @@ This introduction module is a time for us to: 1) discuss the course; 2) get set 
 - <i class="fa fa-database"></i> Data for this module:
     - Data from [Gapminder](https://www.gapminder.org/)
     - [Medicare Advantage](https://github.com/imccart/Medicare-Advantage) repository
-
-
-## Slides
-
-Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
-
-:::fyi
-**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
-:::
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/econ470-content/00-introduction/00-introduction.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/00-introduction/00-introduction.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/00-introduction/00-introduction.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
 

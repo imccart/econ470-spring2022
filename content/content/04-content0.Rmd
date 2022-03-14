@@ -1,10 +1,10 @@
 ---
-title: "Medicaid Expansion and Difference-in-Differences"
-linktitle: "M4: ACA and DD"
+title: "Module 4: Medicaid Expansion and Difference-in-Differences"
+linktitle: "M4: Overview"
 menu:
   content:
-    parent: Module Content
-    weight: 2
+    parent: Module 4
+    weight: 1
 type: docs
 bibliography: "../../static/bib/BibTeX_Library.bib"
 csl: "../../static/bib/chicago-syllabus-no-bib.csl"

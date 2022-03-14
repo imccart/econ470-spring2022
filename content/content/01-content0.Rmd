@@ -1,10 +1,10 @@
 ---
-title: "Hospital Pricing and Selection on Observables"
-linktitle: "M1: Selection and Pricing"
+title: "Module 1: Hospital Pricing and Selection on Observables"
+linktitle: "M1: Overview"
 menu:
   content:
-    parent: Module Content
-    weight: 2
+    parent: Module 1
+    weight: 1
 type: docs
 bibliography: "../../static/bib/BibTeX_Library.bib"
 csl: "../../static/bib/chicago-syllabus-no-bib.csl"
@@ -31,27 +31,9 @@ Links to papers are listed alongside the full reference. PDFs of each paper are 
     - Chapters 1-5, 10, and 13 of [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/)
     - Chapters 2-3 of [@angrist2009]
     - [@darden2018]
-    - [@cooper2019]    
+    - [@cooper2019]. Link to paper [here](https://academic.oup.com/qje/article/134/1/51/5090426).
 - <i class="fa fa-database"></i> Data for this module:
     - [Hospital Cost Report Information System (HCRIS)](https://github.com/imccart/HCRIS) repository
     - See also a similar repository [here](https://github.com/asacarny/hospital-cost-reports) from [Adam Sacarny](http://sacarny.com/)
+    - Understand filepaths. Short [video](https://youtu.be/NG7Y0kkGR8g) from Nick Huntington-Klein.    
     
-
-## Slides
-
-Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
-
-:::fyi
-**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
-:::
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/econ470-content/01-hospital-pricing/01-hospital-pricing.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/01-hospital-pricing/01-hospital-pricing.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/01-hospital-pricing/01-hospital-pricing.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
