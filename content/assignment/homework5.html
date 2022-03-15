@@ -18,7 +18,7 @@ type: docs
 
 <div id="instructions" class="section level1">
 <h1>Instructions</h1>
-<p>In this assignment, you’ll recreate the Insurance and Medicaid Expansion data and answer a few questions along the way. As with the prior assignments, the first step is to make sure you have the <a href="https://github.com/imccart/Insurance-Access">Insurance Access repository</a> and downloaded all of the raw data sources. Once you have the data downloaded and the code running, answer the following questions:</p>
+<p>In this assignment, you’ll recreate the Insurance and Medicaid Expansion data and answer a few questions along the way. As with the prior assignments, the first step is to make sure you have the <a href="https://github.com/imccart-ma/medicaid">Insurance Access repository</a> and downloaded all of the raw data sources. Once you have the data downloaded and the code running, answer the following questions:</p>
 </div>
 <div id="summarize-the-data" class="section level1">
 <h1>Summarize the data</h1>
@@ -35,7 +35,7 @@ type: docs
 <ol style="list-style-type: decimal">
 <li>Calculate the average percent of uninsured individuals in 2012 and 2015, separately for expansion and non-expansion states. Present your results in a basic 2x2 DD table.</li>
 <li>Estimate the effect of Medicaid expansion on the uninsurance rate using a standard DD regression estimator, again focusing only on states that expanded in 2014 versus those that never expanded.</li>
-<li>Include state and year <em>fixed effects</em> in your estimates. Try using the <code>lfe</code> package to estimate this instead of directly including the fixed effects.</li>
+<li>Include state and year <em>fixed effects</em> in your estimates. Try using the <code>lfe</code> or <code>fixest</code> package to estimate this instead of directly including the fixed effects.</li>
 <li>Repeat the analysis in question 3 but include all states (even those that expanded after 2014). Are your results different? If so, why?</li>
 <li>Provide an “event study” graph showing the effects of Medicaid expansion in each year. Use the specification that includes state and year fixed effects, limited to states that expanded in 2014 or never expanded.</li>
 <li>Repeat part 5 but again include states that expanded after 2014. Note: this is tricky…you need to put all states onto “event time” to create this graph.</li>
