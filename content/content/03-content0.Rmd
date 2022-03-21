@@ -32,26 +32,5 @@ Links to papers are listed alongside the full reference. PDFs of each paper are 
     - [@darden2015]
     - [@gruber2017]    
 - <i class="fa fa-database"></i> Data for this module:
-    - [Medicare Advantage](https://github.com/imccart/Medicare-Advantage) repository
-
-
-## Slides
-
-Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
-
-:::fyi
-**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
-:::
-
-
-<center>
-
-```{r}
-knitr::include_url("https://imccart.github.io/econ470-content/03-ma-quality/03-ma-quality.html")
-```
-
-
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/03-ma-quality/03-ma-quality.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/econ470-content/03-ma-quality/03-ma-quality.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
-
-</center>
+    - [Medicare Advantage](https://github.com/imccart-test/ma) repository
 
